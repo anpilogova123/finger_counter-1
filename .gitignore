@@ -1,5 +1,6 @@
-# Created by https://www.toptal.com/developers/gitignore/api/windows,python,opencv,visualstudiocode
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,python,opencv,visualstudiocode
+
+# Created by https://www.toptal.com/developers/gitignore/api/python,windows,visualstudiocode,opencv
+# Edit at https://www.toptal.com/developers/gitignore?templates=python,windows,visualstudiocode,opencv
 
 ### OpenCV ###
 #OpenCV for Mac and Linux
@@ -211,4 +212,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,python,opencv,visualstudiocode
+# End of https://www.toptal.com/developers/gitignore/api/python,windows,visualstudiocode,opencv
